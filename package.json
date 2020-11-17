@@ -1,0 +1,29 @@
+{
+  "name": "eleventy-plugin-exif",
+  "version": "0.1.0",
+  "description": "An 11ty plugin adding a simple exif filter for your images.",
+  "author": "@medienlampe",
+  "license": "MIT",
+  "homepage": "https://github.com/medienlampe/eleventy-plugin-exif#README",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/medienlampe/eleventy-plugin-exif.git"
+  },
+  "bugs": {
+    "url": "https://github.com/medienlampe/eleventy-plugin-exif/issues"
+  },
+  "dependencies": {
+    "jpeg-exif": "^1.1.4"
+  },
+  "main": ".eleventy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "keywords": [
+    "11ty",
+    "eleventy",
+    "plugin",
+    "exif",
+    "image"
+  ]
+}
