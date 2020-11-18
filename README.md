@@ -7,7 +7,7 @@ This plugin:
 
 ---
 
-**Do you find this useful? Feel free to me a beer via [PayPal](https://paypal.me/BischoffSven)**
+**Do you find this useful? Feel free to sponsor me a beer via [PayPal](https://paypal.me/BischoffSven)**
 
 ---
 
